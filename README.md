@@ -1,2 +1,2 @@
 # reto
-trabajo de retso
+trabajo de reto
